@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="rail.alert.AppTest" time="0.011" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\lin_evan\rail_alert_system\email_service\rail-alert-service\target\test-classes;E:\lin_evan\rail_alert_system\email_service\rail-alert-service\target\classes;C:\Users\linev\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\linev\.m2\repository\com\auxilii\msgparser\msgparser\1.1.15\msgparser-1.1.15.jar;C:\Users\linev\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\linev\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\linev\.m2\repository\org\apache\poi\poi-scratchpad\3.9\poi-scratchpad-3.9.jar;C:\Users\linev\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\linev\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;"/>
+    <property name="java.vm.vendor" value="Microsoft"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://www.microsoft.com"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-17.0.17.10-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\linev\AppData\Local\Temp\surefire15607072011697184437\surefirebooter-20251210001716027_3.jar C:\Users\linev\AppData\Local\Temp\surefire15607072011697184437 2025-12-10T00-17-15_908-jvmRun1 surefire-20251210001716027_1tmp surefire_0-20251210001716027_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\lin_evan\rail_alert_system\email_service\rail-alert-service\target\test-classes;E:\lin_evan\rail_alert_system\email_service\rail-alert-service\target\classes;C:\Users\linev\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\linev\.m2\repository\com\auxilii\msgparser\msgparser\1.1.15\msgparser-1.1.15.jar;C:\Users\linev\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\linev\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\linev\.m2\repository\org\apache\poi\poi-scratchpad\3.9\poi-scratchpad-3.9.jar;C:\Users\linev\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\linev\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\linev"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="C:\Program Files\Microsoft\jdk-17.0.17.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\lin_evan\rail_alert_system\email_service\rail-alert-service"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\linev\AppData\Local\Temp\surefire15607072011697184437\surefirebooter-20251210001716027_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.17+10-LTS"/>
+    <property name="user.name" value="linev"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Microsoft-12574423"/>
+    <property name="localRepository" value="C:\Users\linev\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/microsoft/openjdk/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\linev\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.17"/>
+    <property name="user.dir" value="E:\lin_evan\rail_alert_system\email_service\rail-alert-service"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Microsoft\jdk-17.0.17.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Microsoft\jdk-17.0.17.10-hotspot\bin;C:\Program Files\NVIDIA\CUDNN\v9.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Git LFS;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.2\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\apache-maven-3.9.11\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\linev\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\linev\AppData\Local\Programs\Python\Python310\;C:\Users\linev\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\linev\AppData\Local\Programs\Python\Python311\;C:\Users\linev\AppData\Local\Microsoft\WindowsApps;C:\Users\linev\.dotnet\tools;C:\Users\linev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\linev\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\linev\Downloads\ffmpeg-7.1.1-essentials_build\ffmpeg-7.1.1-essentials_build\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Microsoft"/>
+    <property name="java.vm.version" value="17.0.17+10-LTS"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="rail.alert.AppTest" time="0.001"/>
+</testsuite>

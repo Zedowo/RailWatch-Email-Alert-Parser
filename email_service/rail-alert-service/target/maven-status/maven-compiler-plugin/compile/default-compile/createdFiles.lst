@@ -1,0 +1,6 @@
+rail\alert\EmailAlertParser.class
+rail\alert\RailAlertService.class
+rail\alert\AlertMessage.class
+rail\alert\EmailReceiver.class
+rail\alert\App.class
+rail\alert\AlertJSON.class
